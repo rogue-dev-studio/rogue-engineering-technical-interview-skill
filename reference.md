@@ -2,7 +2,7 @@
 
 ## Backend dimensions (1-5)
 
-| Dimensi | Wajib mid |
+| Dimension | Required mid |
 |---------|-----------|
 | API / contract design | ✓ |
 | Data modeling & queries | ✓ |
@@ -12,7 +12,7 @@
 
 ## Frontend dimensions (1-5)
 
-| Dimensi | Wajib mid |
+| Dimension | Required mid |
 |---------|-----------|
 | JS/TS fundamentals | ✓ |
 | Framework patterns | ✓ |
@@ -22,11 +22,11 @@
 
 ## Fullstack / mobile / DevOps
 
-Tambahkan 2-3 dimensi track-specific (state sync, offline, CI/CD, observability) - tetap skor per dimensi.
+Add 2-3 track-specific dimensions (state sync, offline, CI/CD, observability) — still score per dimension.
 
 ## System design light (senior+)
 
-15-20 mnt: desain komponen terbatas (notifikasi, export batch, rate limit) - fokus trade-off, bukan whiteboard besar.
+15-20 min: design a bounded component (notifications, batch export, rate limit) — focus on trade-offs, not a large whiteboard.
 
 ## Take-home template
 
@@ -35,27 +35,27 @@ Tambahkan 2-3 dimensi track-specific (state sync, offline, CI/CD, observability)
 - ...
 
 ## Deliverables
-- Kode + README + test minimal
+- Code + README + minimal tests
 
 ## Time box
-- 3 jam efektif
+- 3 effective hours
 
-## Rubrik
+## Rubric
 - Runs / tests / README / security basics / no over-engineering
 ```
 
 ## Candidate prep checklist
 
-1. Review JD -> 5 topik teknis
-2. 2 proyek dengan metrik/outcome
-3. 1 bug produksi + root cause
-4. 3 pertanyaan balik ke interviewer
-5. Jujur soal gap stack
+1. Review JD -> 5 technical topics
+2. 2 projects with metrics/outcomes
+3. 1 production bug + root cause
+4. 3 questions back to the interviewer
+5. Be honest about stack gaps
 
-## Rekomendasi skor
+## Score recommendation
 
-| Hasil | Arti |
+| Outcome | Meaning |
 |-------|------|
-| `advance` | Lulus threshold; lanjut tahap |
-| `clarify` | Satu dimensi kritis perlu follow-up |
-| `reject-for-this-role` | Gap must-have atau dimensi wajib <2 |
+| `advance` | Passes threshold; proceed to next stage |
+| `clarify` | One critical dimension needs follow-up |
+| `reject-for-this-role` | Must-have gap or required dimension <2 |
